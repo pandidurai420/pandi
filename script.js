@@ -100,7 +100,7 @@ window.addEventListener("load", () => {
 
             loader.style.visibility = "hidden";
 
-        }, 400);
+        }, 200);
 
     }
 
